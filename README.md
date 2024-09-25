@@ -1,23 +1,9 @@
-# Gamesneeze / Atlanta
+# gamesneeze / atlanta / drain (updated 25th sept 2024)
 
-Self leak @https://github.com/matas3535/gamesneeze
-    
-Leaking cause exploiting is dead and I have quit this community long ago
-No reason for me to keep this private anymore
+# updating due to old readme ts made no sense
 
-For any questions etc contact me on my telegram @beheaded
-
-This version is a little outdated as I accidently deleted all of my files from my USB
-Includes everything like languages and loader so not that old but still a little outdated
-
-Doesn't include esp spotted check, Other languages (russian, belarussian, italian, french, albanian, german, latvian)
-                    ^^^^ these were on my usb sry accidently deleted (sry to all those people that wrote all the stuff out for the languages xD) ^^^^
-
-You are free to paste from this no need to provide credit or anything
-            ⚠⚠ Use it as a learning resource :D ⚠⚠
-
-
-![12](https://github.com/matas3535/gamesneeze/assets/102203325/14950180-a806-4a57-ba88-97169ae445a1)
-
-
-https://github.com/matas3535/gamesneeze/assets/102203325/fc77843a-7a38-4fe0-886d-000ff9c68caa
+![4](https://github.com/user-attachments/assets/c6315234-e83d-4530-bdd6-e61971cc54d4)
+![3](https://github.com/user-attachments/assets/6f37f6be-edac-4716-a43f-f22426ed6217)
+![2](https://github.com/user-attachments/assets/895cf3a0-eba6-448e-ab43-25ee10f370b1)
+![1](https://github.com/user-attachments/assets/15953ea8-6d7c-4bde-8c46-0cef323e3e99)
+![5](https://github.com/user-attachments/assets/52d6dff4-a68b-4aee-8153-986f8d4f588a)
