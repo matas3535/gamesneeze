@@ -2,26 +2,26 @@ getgenv().ESP = {
     Main = {
         Enabled = true,
         Name = {
-            Enabled = true,
+            Enabled = false,
             Color = Color3.fromRGB(255, 255, 255),
         },
         Box = {
-            Enabled = true,
+            Enabled = false,
             BoxColor = Color3.fromRGB(75, 175, 175),
             BoxFillColor = Color3.fromRGB(100, 75, 175),
         },
         HealthBar = {
-            Enabled = true,
-            Number = true,
+            Enabled = false,
+            Number = false,
             HighHealthColor = Color3.fromRGB(0, 255, 0),
             LowHealthColor = Color3.fromRGB(255, 0, 0),
         },
         Tool = {
-            Enabled = true,
+            Enabled = false,
             Color = Color3.fromRGB(255, 255, 255),
         },
         Distance = {
-            Enabled = true,
+            Enabled = false,
             Color = Color3.fromRGB(255, 255, 255),
         },
         Chams = false,
@@ -29,15 +29,15 @@ getgenv().ESP = {
         Type = "AlwaysOnTop", --// "AlwaysOnTop", "Occluded"
     },
     Checks = {
-        WallCheck = true,
-        VisibleCheck = true,
-        ForceField = true,
-        AliveCheck = true,
+        WallCheck = false,
+        VisibleCheck = false,
+        ForceField = false,
+        AliveCheck = false,
     },
     Extra = {
-        UseDisplayName = true,
+        UseDisplayName = false,
         EspFadeOut = 400,
-        PriorityOnly = true,
+        PriorityOnly = false,
     }
 }
 -- // Tables
